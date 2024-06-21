@@ -1,6 +1,6 @@
 # 📘 Preview Card Component - Frontend Mentor
 
-Description:
+**Description:**
 - My first ever project from https://www.frontendmentor.io/
 - I had some issues during responsive design, because it was my first time using React.js with TailwindCSS.
 
