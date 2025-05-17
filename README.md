@@ -12,4 +12,4 @@
 </br> ![Preview of site](/preview-card-component.png)
 
 **Site Preview**
-https://melodic-fairy-5b5d92.netlify.app
+https://guileless-croissant-90f2c5.netlify.app
