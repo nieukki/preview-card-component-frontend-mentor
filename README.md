@@ -9,7 +9,7 @@
    - TailwindCSS
 
 **Screenshot:**
-</br> ![Preview of site](/dark-mode-preview.jpg)
+</br> ![Preview of site](/preview-card-component.png)
 
 **Site Preview**
 https://melodic-fairy-5b5d92.netlify.app
